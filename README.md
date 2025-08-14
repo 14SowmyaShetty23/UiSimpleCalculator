@@ -34,4 +34,4 @@ A beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-![Calculator Screenshot](assets/calculator.png)
+![Calculator Screenshot](https://raw.githubusercontent.com/14SowmyaShetty23/UiSimpleCalculator/main/assests/calculator.png)
