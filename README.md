@@ -5,6 +5,8 @@ A simple calculator web app built using HTML, CSS, and JavaScript. This is my fi
 A beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This is my first web development project where I learned how to build and style a functional calculator with a responsive UI and interactive buttons.
 
 ---
+[Live Demo](https://ui-simple-calculator-rust.vercel.app/)  
+Try out Mr.CharBot live in your browser!
 
 ## 🚀 Features
 
