@@ -6,7 +6,7 @@ A beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 [Live Demo](https://ui-simple-calculator-rust.vercel.app/)  
-Try out Mr.CharBot live in your browser!
+Try out live in your browser!
 
 ## 🚀 Features
 
